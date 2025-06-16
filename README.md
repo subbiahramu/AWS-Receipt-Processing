@@ -40,12 +40,6 @@ Manual receipt processing is time-consuming, error-prone, and hard to scale. Thi
 
 ---
 
-## ⏱️ Estimated Time & Cost
-
-* **Setup Time**: \~2 hours
-* **Cost**: Free (within AWS Free Tier)
-
----
 
 ## 🧼 Cleanup Instructions
 
